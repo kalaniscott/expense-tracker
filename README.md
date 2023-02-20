@@ -2,11 +2,11 @@
 Webapp to manage your budget and share budgets with others. Keep track of your balance sheet and avoid food spoilage.
 
 ## to-do list
-- [] Make an API call to Gmail to gather XML receipts
-- [] Make a form to manually add an expense record
-- [] Create an UI to access and visualize data
-- [] Make a balance sheet viz
-- [] Make a dynamic meal prep calendar 
+- [ ] Make an API call to Gmail to gather XML receipts
+- [ ] Make a form to manually add an expense record
+- [ ] Create an UI to access and visualize data
+- [ ] Make a balance sheet viz
+- [ ] Make a dynamic meal prep calendar 
 
 ## Balance sheet
 ### Income
